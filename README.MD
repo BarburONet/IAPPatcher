@@ -38,4 +38,4 @@ python iappatcher_patcher/main.py -p ./to_patch.apk
 
 ## Disclaimer
 
-For educational purpose only of course ;)
+For educational purposes only of course ;)
